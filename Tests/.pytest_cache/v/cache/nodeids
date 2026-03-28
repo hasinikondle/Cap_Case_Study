@@ -1,0 +1,22 @@
+[
+  "test_cleaning.py::test_r10_maintenance",
+  "test_cleaning.py::test_r11_no_bdl",
+  "test_cleaning.py::test_r12_status",
+  "test_cleaning.py::test_r13_mapping",
+  "test_cleaning.py::test_r14_unit",
+  "test_cleaning.py::test_r15_source_type",
+  "test_cleaning.py::test_r16_qc",
+  "test_cleaning.py::test_r17_utc",
+  "test_cleaning.py::test_r18_pii",
+  "test_cleaning.py::test_r19_exceedance",
+  "test_cleaning.py::test_r1_timestamp",
+  "test_cleaning.py::test_r20_audit_trail",
+  "test_cleaning.py::test_r2_unit",
+  "test_cleaning.py::test_r3_status",
+  "test_cleaning.py::test_r4_coordinates",
+  "test_cleaning.py::test_r5_no_negative",
+  "test_cleaning.py::test_r6_duplicates",
+  "test_cleaning.py::test_r7_calibration",
+  "test_cleaning.py::test_r8_spikes",
+  "test_cleaning.py::test_r9_record_id"
+]
